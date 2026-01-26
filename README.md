@@ -10,7 +10,7 @@ The connector should meet delivery standards.
 * The provided SNMP MIB files of the EATON Blade UPS are in the Documentation folder and load them into the DIS MIB browser in Visual Studio.\
 This tool should be used to construct the connector.
 * Load the provided simulation file which is available in the Documentation folder using the QA Device Simulation Tool\
-[How to: Running Simulations](https://docs.dataminer.services/user-guide/Reference/DataMiner_Tools/QADeviceSimulator/Running_simulations.html?q=QASNMP)
+[How to: Running Simulations](https://docs.dataminer.services/dataminer/DataMiner_Tools/QADeviceSimulator/Running_simulations.html?q=running%20simulations)
 
 ## Connector Layout
 
